@@ -1,0 +1,14 @@
+.navbar-1, .card-footer, .Permissionless{
+  background-color: #294378!important;
+}
+.sec-li:hover{
+  color: #90162d!important;
+  text-decoration: underline;
+}
+.card-img{
+  height: 11rem!important;
+}
+.brand{
+  width: 9rem!important;
+  height: 4rem!important;
+}
